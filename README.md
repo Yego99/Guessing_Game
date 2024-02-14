@@ -1,2 +1,2 @@
 # Guessing_Game
-First coding project I ever did. Simple guessing game between 1-10.
+This was the very first coding project I ever did. It is a simple guessing game between 1-10. It uses a while loop and a try block along with a few if statements to make a guessing game that will not error out. This projecet gave me a little bit of exposure to the very step by step way of thinking that is necessary when putting a project together. Need to be able to break down the steps of what is happening in the game and tailor each piece of code to match what you want the output to be
